@@ -56,7 +56,8 @@ Run the prediction script on unseen data:
 ```bash
 python predict_hlb.py     --input_csv data/test_hlb.csv     --params_yaml params.yaml     --out_dir results/     --ckpt_path results/models/best.ckpt     --target_col hlb
 ```
-
+## Output 
+results are stored in results/predictions_metrics.json
 ---
 
 ## Project Insights  
