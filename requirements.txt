@@ -1,0 +1,11 @@
+
+torch
+torch-geometric
+rdkit-pypi
+pandas
+numpy
+omegaconf
+pytorch-lightning
+hydra-core
+scikit-learn
+tqdm

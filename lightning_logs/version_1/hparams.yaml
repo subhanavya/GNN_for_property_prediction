@@ -1,0 +1,12 @@
+hidden_dim: 200
+out_dim: 1
+num_layers: 4
+num_timesteps: 2
+dropout: 0.2
+lr: 0.001
+weight_decay: 1.0e-05
+graph_dim: 128
+batch_size: 64
+max_epochs: 200
+learning_rate: 0.0005
+patience: 30
