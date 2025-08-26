@@ -58,7 +58,6 @@ python predict_hlb.py     --input_csv data/test_hlb.csv     --params_yaml params
 ```
 ## Output 
 results are stored in results/predictions_metrics.json
----
 
 ## Project Insights  
 - This work demonstrates the **practical utility of GNNs** in cheminformatics, specifically in predicting surfactant HLB values.  
